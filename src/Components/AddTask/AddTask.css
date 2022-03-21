@@ -1,0 +1,15 @@
+.add-task-container {
+    display: flex;
+    background-color: #d42533;
+    border-radius: 50px;
+    padding: 2%;
+    margin: 2% 10%;
+}
+
+.input-task {
+    margin-right: 10px !important;
+}
+
+.addme {
+    color: rgb(209, 33, 63);
+}
